@@ -28,6 +28,15 @@ main p{
 .client-blue-text{
     color: #23A6F0;
 }
+.booking-part{
+    background-color: #6d6d6d;
+}
+/* horizontal-line */
+.hr-line{
+    width: 20%;
+    border: 1px solid #271212;
+    margin-left: 40%;
+}
 footer{
     background-color: #264653;
 }
